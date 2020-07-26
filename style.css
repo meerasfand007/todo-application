@@ -28,7 +28,9 @@
         }
         
         .todologo {
+            margin-top: 3px;
             width: 65px;
+            height: 62px;
         }
         
         .input {
