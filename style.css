@@ -91,6 +91,10 @@
                 background-image: url(images/todomobile.jpg);
                 background-repeat: repeat-y;
             }
+            .iframeindex {
+                width: 90% !important;
+                margin-left: 0px;
+            }
         }
         
         span {
